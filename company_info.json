@@ -1,0 +1,132 @@
+{
+  "company": {
+    "name": "Magneticode S.r.l.",
+    "tagline": "Your Digital Compass",
+    "slogan": "La tua bussola digitale nel labirinto tecnologico",
+    "website": "https://www.magneticode.com",
+    "email": "info@magneticode.com",
+    "linkedin": "https://www.linkedin.com/company/magneticode",
+    "founded": 2022,
+    "industry": "Consulenza tecnologica e sviluppo software"
+  },
+  "legal": {
+    "ragione_sociale": "MAGNETICODE S.R.L.",
+    "forma_giuridica": "Società a Responsabilità Limitata (S.r.l.)",
+    "partita_iva": "16937321004",
+    "codice_fiscale": "16937321004",
+    "rea": "RM - 1685692",
+    "codice_ateco": "62.01",
+    "attivita_ateco": "Produzione di software non connesso all'edizione"
+  },
+  "location": {
+    "city": "Roma",
+    "province": "RM",
+    "region": "Lazio",
+    "country": "Italia",
+    "address": "Via Piero Gherardi 6, 00125 Roma (RM)"
+  },
+  "financials": {
+    "fatturato_ultimo_esercizio": "176.000 €",
+    "note": "Dato ricavato da fonti pubbliche (ufficiocamerale.it, fatturatoitalia.it)"
+  },
+  "leadership": {
+    "ceo": {
+      "name": "Emanuele Garofalo",
+      "roles": ["CEO", "CTO", "Cloud Architect", "Enterprise Architect"],
+      "linkedin": "https://www.linkedin.com/in/emanuele-garofalo/",
+      "sessionize": "https://sessionize.com/emanuele-garofalo/",
+      "experience": "10+ anni nel settore tecnologico",
+      "specializations": ["Cloud Computing", "Enterprise Architecture", "Software Engineering", "DevOps", "Digital Transformation"],
+      "description": "Fondatore di Magneticode. Aiuta i clienti a raggiungere il successo nei loro progetti, dal modello di business al rilascio (cloud e on-prem). Attivo speaker in conferenze tecnologiche italiane."
+    }
+  },
+  "mission": "Supportare i clienti, lavorando in modo collaborativo per superare con efficienza e innovazione le sfide tecnologiche. Condividiamo la visione dei nostri clienti e lavoriamo instancabilmente per trasformarla in realtà, fornendo soluzioni su misura e supporto continuo.",
+  "vision": "Essere un partner di riferimento per le aziende che vogliono innovare, costruendo insieme un futuro digitale sostenibile, efficiente e orientato al successo.",
+  "description": "Magneticode è un'azienda dedicata alla consulenza e allo sviluppo tecnologico. Guida le aziende attraverso le sfide della trasformazione digitale con precisione e innovazione. Le soluzioni sono progettate per affrontare le sfide più complesse ed esigenti del mondo digitale moderno.",
+  "services": [
+    {
+      "name": "Cloud Adoption & Governance",
+      "description": "Accompagnamento nell'adozione del cloud, dalla valutazione iniziale alla governance completa. Soluzioni scalabili e sicure."
+    },
+    {
+      "name": "DevOps & Automazione",
+      "description": "Accelerazione del ciclo di sviluppo software con pipeline CI/CD, Infrastructure as Code e pratiche DevOps consolidate per rilasci rapidi e affidabili."
+    },
+    {
+      "name": "Data Management",
+      "description": "Ottimizzazione della gestione dei dati aziendali con architetture moderne, data governance e soluzioni di analytics per trasformare i dati in valore di business."
+    },
+    {
+      "name": "Digital Transformation",
+      "description": "Guida del processo di trasformazione digitale end-to-end, dalla definizione della strategia all'implementazione, con un approccio collaborativo e orientato ai risultati."
+    },
+    {
+      "name": "Consulenza Strategica IT",
+      "description": "Consulenza guidata da passione e talento per aiutare i clienti a raggiungere i propri obiettivi di business attraverso scelte tecnologiche consapevoli e innovative."
+    },
+    {
+      "name": "Training & Formazione",
+      "description": "Percorsi formativi su misura per aziende che vogliono acquisire competenze tecnologiche avanzate. Dall'hands-on al mentoring specialistico."
+    }
+  ],
+  "approach": {
+    "methodology": "Agile",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Analisi & Assessment",
+        "description": "Valutazione dello stato attuale dell'infrastruttura e definizione degli obiettivi strategici."
+      },
+      {
+        "step": 2,
+        "name": "Strategia & Design",
+        "description": "Progettazione della roadmap tecnologica su misura, identificando le soluzioni più adatte."
+      },
+      {
+        "step": 3,
+        "name": "Implementazione",
+        "description": "Realizzazione delle soluzioni con metodologie agili, garantendo qualità e aderenza alla visione condivisa."
+      },
+      {
+        "step": 4,
+        "name": "Supporto & Crescita",
+        "description": "Supporto continuo e formazione per garantire il successo a lungo termine del progetto."
+      }
+    ]
+  },
+  "values": [
+    "Approccio collaborativo e orientato al risultato",
+    "Team di esperti con competenze diversificate",
+    "Soluzioni innovative e personalizzate",
+    "Supporto continuo e formazione dedicata"
+  ],
+  "stats": {
+    "years_of_experience": "10+",
+    "client_focus": "100%",
+    "approach": "Cloud Native",
+    "solutions": "End-to-End"
+  },
+  "technologies": [".NET", "Python", "Java", "Node.js", "Microsoft Azure", "CI/CD", "Infrastructure as Code"],
+  "community_involvement": [
+    "Speaker e Event Partner alla Rome .NET Conference 2024",
+    "Speaker ad Azure Day Roma 2023",
+    "Speaker a Cloud Day",
+    "Membro attivo della comunità UGIdotNET",
+    "Speaker alla .NET Conference 2026"
+  ],
+  "speaker_topics": [
+    "Azure Load Testing",
+    "Azure AD B2C (CIAM)",
+    "Cloud Architecture",
+    "Enterprise Architecture"
+  ],
+  "sources": [
+    "https://www.magneticode.com",
+    "https://www.ufficiocamerale.it/8199/magneticode-srl",
+    "https://www.fatturatoitalia.it/magneticode_srl-16937321004",
+    "https://atoka.io/public/it/azienda/magneticode-srl/879b4d4014b5",
+    "https://www.linkedin.com/in/emanuele-garofalo/",
+    "https://sessionize.com/emanuele-garofalo/",
+    "https://intch.org/5523999"
+  ]
+}

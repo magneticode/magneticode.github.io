@@ -1,25 +1,45 @@
 ---
-permalink: /404.html
 layout: default
+title: 404 - Pagina non trovata
+permalink: /404.html
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
+<style>
+  .error-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
+    padding: 2rem;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+  .error-code {
+    font-size: clamp(5rem, 15vw, 10rem);
+    font-weight: 800;
+    background: linear-gradient(135deg, #2563eb, #06b6d4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
     line-height: 1;
-    letter-spacing: -1px;
+    margin-bottom: 1rem;
+  }
+  .error-page h2 {
+    font-size: 1.5rem;
+    color: #f1f5f9;
+    margin-bottom: 1rem;
+  }
+  .error-page p {
+    color: #94a3b8;
+    margin-bottom: 2rem;
+    font-size: 1.05rem;
   }
 </style>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="error-page">
+  <div>
+    <div class="error-code">404</div>
+    <h2>Pagina non trovata</h2>
+    <p>La pagina che stai cercando non esiste o è stata spostata.</p>
+    <a href="/" class="btn btn-primary">Torna alla homepage &rarr;</a>
+  </div>
 </div>

@@ -1,8 +1,8 @@
 {
   "company": {
     "name": "Magneticode S.r.l.",
-    "tagline": "Your Digital Compass",
-    "slogan": "La tua bussola digitale nel labirinto tecnologico",
+    "tagline": "Perceptible Power",
+    "slogan": "Tecnologia che si percepisce. Risultati che si misurano.",
     "website": "https://www.magneticode.com",
     "email": "info@magneticode.com",
     "linkedin": "https://www.linkedin.com/company/magneticode",
@@ -41,28 +41,49 @@
   "description": "Magneticode è un'azienda dedicata alla consulenza e allo sviluppo tecnologico. Guida le aziende attraverso le sfide della trasformazione digitale con precisione e innovazione. Le soluzioni sono progettate per affrontare le sfide più complesse ed esigenti del mondo digitale moderno.",
   "services": [
     {
-      "name": "Cloud Adoption & Governance",
-      "description": "Accompagnamento nell'adozione del cloud, dalla valutazione iniziale alla governance completa. Soluzioni scalabili e sicure."
+      "name": "Cloud Computing & Azure",
+      "description": "Adozione e governance del cloud su Microsoft Azure. Dalla migration strategy al FinOps, costruiamo Landing Zone scalabili, sicure e cost-efficient con il Well-Architected Framework.",
+      "technologies": ["Microsoft Azure", "FinOps", "Landing Zone", "Well-Architected Framework"]
     },
     {
-      "name": "DevOps & Automazione",
-      "description": "Accelerazione del ciclo di sviluppo software con pipeline CI/CD, Infrastructure as Code e pratiche DevOps consolidate per rilasci rapidi e affidabili."
+      "name": "Microsoft 365 & Modern Workplace",
+      "description": "Produttività e collaborazione avanzate, molto più della semplice attivazione licenze. Governance, compliance, Teams adoption e gestione dell'identità con Entra ID.",
+      "technologies": ["Microsoft 365", "Entra ID", "Teams", "SharePoint"]
     },
     {
-      "name": "Data Management",
-      "description": "Ottimizzazione della gestione dei dati aziendali con architetture moderne, data governance e soluzioni di analytics per trasformare i dati in valore di business."
+      "name": "DevOps & Sviluppo Agile",
+      "description": "Pipeline CI/CD, Infrastructure as Code con Bicep e Terraform, GitOps e pratiche DevOps end-to-end. Rilasci più rapidi, più affidabili, con piena traceability e rollback istantaneo.",
+      "technologies": ["GitHub Actions", "Bicep", "Terraform", "GitOps", "Docker", "Kubernetes"]
     },
     {
-      "name": "Digital Transformation",
-      "description": "Guida del processo di trasformazione digitale end-to-end, dalla definizione della strategia all'implementazione, con un approccio collaborativo e orientato ai risultati."
+      "name": "Sviluppo Software Multi-Piattaforma",
+      "description": "Sviluppo custom su .NET, Python, Java e Node.js. Applicazioni enterprise, API REST e GraphQL, microservizi e architetture SaaS progettate per scalare e durare nel tempo.",
+      "technologies": [".NET", "Python", "Java", "Node.js", "REST API", "GraphQL", "Microservizi"]
     },
     {
-      "name": "Consulenza Strategica IT",
-      "description": "Consulenza guidata da passione e talento per aiutare i clienti a raggiungere i propri obiettivi di business attraverso scelte tecnologiche consapevoli e innovative."
+      "name": "Intelligenza Artificiale & Machine Learning",
+      "description": "Trasformiamo i dati in insight e i processi in vantaggio competitivo. LLM con Azure OpenAI, RAG, Copilot customization e ML operazionale per generare valore reale sul business.",
+      "technologies": ["Azure OpenAI", "LLM", "RAG", "Microsoft Copilot", "ML Ops"]
     },
     {
-      "name": "Training & Formazione",
-      "description": "Percorsi formativi su misura per aziende che vogliono acquisire competenze tecnologiche avanzate. Dall'hands-on al mentoring specialistico."
+      "name": "Gestione Infrastrutture IT",
+      "description": "Stabilità operativa garantita. Monitoring proattivo con Azure Monitor, incident management, SLO/SLA e ottimizzazione continua per ambienti cloud e on-premise.",
+      "technologies": ["Azure Monitor", "Grafana", "SLO/SLA", "Incident Management"]
+    },
+    {
+      "name": "Licensing & Gestione Licenze",
+      "description": "Software Asset Management e ottimizzazione del costo delle licenze Microsoft e non solo. Compliance garantita e massimizzazione del ROI su ogni investimento tecnologico.",
+      "technologies": ["Microsoft Licensing", "SAM", "ITAM", "Compliance"]
+    },
+    {
+      "name": "Ricerca & Innovazione Tecnologica",
+      "description": "Esploriamo le frontiere tecnologiche per soluzioni all'avanguardia. PoC, R&D, technology assessment e benchmark per anticipare il mercato e ridurre il rischio d'adozione.",
+      "technologies": ["PoC", "R&D", "Technology Assessment", "Benchmark"]
+    },
+    {
+      "name": "Sicurezza Informatica & Protezione Dati",
+      "description": "Protezione dati su misura con approccio Zero Trust. Vulnerability assessment, compliance GDPR, Microsoft Defender e security monitoring continuo per proteggere gli asset critici.",
+      "technologies": ["Zero Trust", "Microsoft Defender", "GDPR", "Vulnerability Assessment", "SIEM"]
     }
   ],
   "approach": {

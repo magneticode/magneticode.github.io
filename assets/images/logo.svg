@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 52" role="img" aria-label="Magneticode — Perceptible Power">
+  <title>Magneticode</title>
+  <text
+    x="0"
+    y="36"
+    font-family="Jost, 'Arial Black', Arial, sans-serif"
+    font-weight="800"
+    font-size="36"
+    letter-spacing="-0.5"
+  >
+    <tspan fill="#FFFFFF">MAGNETI</tspan><tspan fill="#F8B333">CODE</tspan>
+  </text>
+  <text
+    x="2"
+    y="50"
+    font-family="Jost, Arial, sans-serif"
+    font-weight="500"
+    font-size="9.5"
+    fill="#F8B333"
+    letter-spacing="3.8"
+  >PERCEPTIBLE POWER</text>
+</svg>

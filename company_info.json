@@ -26,8 +26,8 @@
     "address": "Via Piero Gherardi 6, 00125 Roma (RM)"
   },
   "financials": {
-    "fatturato_ultimo_esercizio": "176.000 €",
-    "note": "Dato ricavato da fonti pubbliche (ufficiocamerale.it, fatturatoitalia.it)"
+    "fatturato_ultimo_esercizio": "NON VERIFICATO - controllare su fatturatoitalia.it",
+    "note": "Dato non verificabile dall'ambiente sandbox. Verificare su https://www.fatturatoitalia.it/magneticode_srl-16937321004"
   },
   "leadership": {
     "ceo": {
